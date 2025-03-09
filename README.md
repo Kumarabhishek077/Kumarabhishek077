@@ -5,7 +5,7 @@
 📊 Open to Internships
 
 💡 Projects (In Progress):
-🔹 Smart City Connect
+🔹 Smart Community Connect
 
 📚 Skills:
 ✅ Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)

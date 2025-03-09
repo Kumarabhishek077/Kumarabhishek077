@@ -2,10 +2,10 @@
 📌 B.Tech (AI & DS) | Data Science | Analytics
 
 🎓 Student at Vivekananda Institute of Professional Studies
-📊 Aspiring Data Analyst
+📊 Open to Internships
 
 💡 Projects (In Progress):
-🔹 Instant Community for Local Issues
+🔹 Smart City Connect
 
 📚 Skills:
 ✅ Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -19,7 +19,6 @@
 🎯 Currently Working On:
 📌 Data Analytics Internship
 📌 Java for Data Processing
-📌 GATE 2026 Preparation
 
 📌 Interests:
 🔍 AI, Data Science, Machine Learning, DSA

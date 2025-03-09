@@ -20,7 +20,7 @@
 📌 Data Analytics Internship
 📌 Java for Data Processing
 
-📌 Interests:
+📌 Learning:
 🔍 AI, Data Science, Machine Learning, DSA
 📩 Open to Internships & Collaborations
 
